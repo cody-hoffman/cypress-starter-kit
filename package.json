@@ -1,0 +1,24 @@
+{
+  "name": "cypress-starter-kit",
+  "version": "1.0.0",
+  "description": "Cypress automated testing, batteries included.",
+  "author": "Cody Hoffman",
+  "scripts": {
+    "cypress:open": "cypress open"
+  },
+  "devDependencies": {
+    "cypress": "3.8.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tractorzoom/cypress-starter-kit.git"
+  },
+  "keywords": [
+    "cypress"
+  ],
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tractorzoom/cypress-starter-kit/issues"
+  },
+  "homepage": "https://github.com/tractorzoom/cypress-starter-kit#readme"
+}
