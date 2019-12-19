@@ -15,6 +15,7 @@ It's one easy to learn framework that can do many things, most notably end-to-en
 Cypress has a solid following and a good plugin ecosystem to take care of things like:
 
 - [CircleCI Orb](https://github.com/cypress-io/circleci-orb)
+- [Pre-built Docker Images](https://github.com/cypress-io/cypress-docker-images)
 - [React Component Unit Testing](https://github.com/bahmutov/cypress-react-unit-test)
 - [Retries](https://github.com/Bkucera/cypress-plugin-retries)
 - [Slack Integration](https://github.com/bdimitrovski/cypress-healthcheck)
