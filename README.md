@@ -1,4 +1,4 @@
-# Cypress Starter Kit
+# Cypress Starter Kit :rocket:
 
 [Cypress](cypress.io) is the swiss army knife of automated testing. A lot of this project is boilerplate code that we will need to get started on any cypress project. The easiest way to get started:
 
@@ -6,11 +6,11 @@
 $ git clone https://github.com/cody-hoffman/cypress-starter-kit.git my-new-cypress-project
 ```
 
-## [Why Cypress?](https://www.cypress.io/features)
+## [Why Cypress?](https://www.cypress.io/features)    :thinking:
 
 It's one easy to learn framework that can do many things, most notably end-to-end testing and API contract testing. Cypress has a really simple API that is built on top of mocha. It's easy to learn for anyone with JS unit testing experience.
 
-## [Plugins](https://docs.cypress.io/plugins/)
+## [Plugins](https://docs.cypress.io/plugins/)    :electric_plug:
 
 Cypress has a solid following and a good plugin ecosystem to take care of things like:
 
